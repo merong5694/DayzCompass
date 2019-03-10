@@ -1,6 +1,9 @@
 ---
 name:
   Compass: Compass
+  DownLoader: DownLoader
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
+DownLoader:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/DownLoader.phar
 ...
