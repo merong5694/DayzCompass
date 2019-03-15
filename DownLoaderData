@@ -3,10 +3,13 @@ name:
   Compass: Compass
   DownLoader: DownLoader
   FunctionSystem: FunctionSystem
+  DayzSystem: DayzSystem
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/DownLoader.phar
 FunctionSystem:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/FunctionSystem.phar
+DayzSystem:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/DayzSystem.phar
 ...
