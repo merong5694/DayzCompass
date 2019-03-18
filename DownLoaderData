@@ -4,6 +4,7 @@ name:
   DownLoader: DownLoader
   FunctionSystem: FunctionSystem
   DayzSystem: DayzSystem
+  OpTool: OpTool
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -12,4 +13,6 @@ FunctionSystem:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/FunctionSystem.phar
 DayzSystem:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/DayzSystem.phar
+OpTool:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/OpTool.phar
 ...
