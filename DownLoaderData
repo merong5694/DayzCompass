@@ -7,6 +7,7 @@ name:
   OpTool: OpTool
   Monster: Monster
   QuestAPI: QuestAPI
+  PlaceBGM: PlaceBGM
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -21,4 +22,6 @@ Monster:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Monster.phar
 QuestAPI:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/QuestAPI.phar
+PlaceBGM:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/PlaceBGM.phar
 ...
