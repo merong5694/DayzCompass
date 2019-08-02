@@ -6,6 +6,7 @@ name:
   DayzSystem: DayzSystem
   OpTool: OpTool
   Monster: Monster
+  QuestAPI: QuestAPI
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -18,4 +19,6 @@ OpTool:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/OpTool.phar
 Monster:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Monster.phar
+QuestAPI:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/QuestAPI.phar
 ...
