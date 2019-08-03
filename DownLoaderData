@@ -8,6 +8,7 @@ name:
   Monster: Monster
   QuestAPI: QuestAPI
   PlaceBGM: PlaceBGM
+  Warning: Warning
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -24,4 +25,6 @@ QuestAPI:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/QuestAPI.phar
 PlaceBGM:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/PlaceBGM.phar
+Warning:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Warning.phar
 ...
