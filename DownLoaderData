@@ -9,6 +9,7 @@ name:
   QuestAPI: QuestAPI
   PlaceBGM: PlaceBGM
   Warning: Warning
+  AutoSurvival: AutoSurvival
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -27,4 +28,6 @@ PlaceBGM:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/PlaceBGM.phar
 Warning:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Warning.phar
+AutoSurvival:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/AutoSurvival.phar
 ...
