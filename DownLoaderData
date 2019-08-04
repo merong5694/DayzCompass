@@ -10,6 +10,7 @@ name:
   PlaceBGM: PlaceBGM
   Warning: Warning
   AutoSurvival: AutoSurvival
+  ReplaceQuest: ReplaceQuest
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -30,4 +31,6 @@ Warning:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Warning.phar
 AutoSurvival:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/AutoSurvival.phar
+ReplaceQuest:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/ReplaceQuest.phar
 ...
