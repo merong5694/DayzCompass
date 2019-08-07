@@ -11,6 +11,7 @@ name:
   Warning: Warning
   AutoSurvival: AutoSurvival
   ReplaceQuest: ReplaceQuest
+  MailBox: MailBox
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -33,4 +34,6 @@ AutoSurvival:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/AutoSurvival.phar
 ReplaceQuest:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/ReplaceQuest.phar
+MailBox:
+  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/MailBox.phar
 ...
