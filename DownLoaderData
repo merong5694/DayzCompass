@@ -13,7 +13,6 @@ name:
   ReplaceQuest: ReplaceQuest
   MailBox: MailBox
   UserQuest: UserQuest
-  Weapon: Weapon
 Compass:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Compass.phar
 DownLoader:
@@ -40,6 +39,4 @@ MailBox:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/MailBox.phar
 UserQuest:
   pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/UserQuest.phar
-Weapon:
-  pharurl: https://raw.githubusercontent.com/merong5694/DayzPlugins/master/Weapon.phar
 ...
